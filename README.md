@@ -3,7 +3,7 @@
 SkipGram is a foundational NLP project that demonstrates how to learn meaningful word representations using contextual information. It captures semantic relationships between words by training a shallow neural network on context-target word pairs, implemented entirely from scratch using Python and NumPy.
 
 ## Features
-Tokenization & Vocabulary Construction: Converts raw text into a tokenized corpus and builds a vocabulary dictionary.
+- Tokenization & Vocabulary Construction: Converts raw text into a tokenized corpus and builds a vocabulary dictionary.
 
 - Contextual Pair Generation: Generates center-context word pairs based on a defined window size.
 
