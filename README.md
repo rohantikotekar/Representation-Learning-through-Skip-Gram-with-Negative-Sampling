@@ -1,3 +1,5 @@
+# Representation Learning through Skip-Gram with Negative Sampling 
+
 SkipGram is a foundational NLP project that demonstrates how to learn meaningful word representations using contextual information. It captures semantic relationships between words by training a shallow neural network on context-target word pairs, implemented entirely from scratch using Python and NumPy.
 
 ## Features
